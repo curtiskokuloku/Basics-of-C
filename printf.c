@@ -1,3 +1,5 @@
+// Using the printf() function
+
 #include <stdio.h>
 
 int main() {
